@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm **Mahaveer Bana**, a **Software Engineer** with a strong passion for **Full-Stack Development** and **Machine Learning**. Below you'll find some information about me, my projects, and how you can reach out to me.
 
 ## About Me
-
+- 🎓 **Graduated** in **B.Tech** from **IIT Kanpur** (2023).
 - 👨‍💻 I'm currently working as a **Software Engineer** at **Deshaj Labs**.
 - 🌱 I’m constantly learning and improving my skills in **JavaScript**, **Node.js**, **React**, **Machine Learning**, and more.
 - 💬 Ask me about **MERN stack development**, **Machine Learning**, or **database management**.
